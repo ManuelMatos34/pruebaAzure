@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FtbiJ/nwTh4KfG+gFfqoWhLObpNYWlcvYcz+zGE8mNA=",
+  "Source": "prueba_azure",
+  "BasePath": "_content/prueba_azure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

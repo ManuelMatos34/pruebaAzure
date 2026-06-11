@@ -1,0 +1,6 @@
+@prueba_azure_HostAddress = http://localhost:5047
+
+GET {{prueba_azure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
